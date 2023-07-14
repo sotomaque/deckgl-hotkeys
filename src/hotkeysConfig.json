@@ -1,0 +1,18 @@
+{
+  "global": {
+    "reset": { "key": "ctrl+b" },
+    "waypoint2": { "key": "alt+2" },
+    "zoomIn": { "key": "alt+z" },
+    "zoomOut": { "key": "alt+x" },
+    "toggleBaseballCard": [
+      { "key": "m+1", "payload": 1 },
+      { "key": "m+2", "payload": 2 }
+    ]
+  },
+  "baseball-card": {
+    "reset": { "key": "ctrl+shift+b" },
+    "waypoint2": { "key": "alt+3" },
+    "zoomIn": { "key": "alt+a" },
+    "zoomOut": { "key": "alt+s" }
+  }
+}
